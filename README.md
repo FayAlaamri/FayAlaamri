@@ -1,19 +1,19 @@
-# 💫 About Me:
+# 🌷 About Me:
 🛠 I’m currently working on:<br><br>
-🔹Building CI/CD pipelines and automating deployments using Jenkins, Docker, and Kubernetes<br>
-🔹Enhancing my skills in cloud computing (AWS & Azure)<br>
+🌼 Building CI/CD pipelines and automating deployments using Jenkins, Docker, and Kubernetes<br>
+🌼 Enhancing my skills in cloud computing (AWS & Azure)<br>
 
 🤝 I’m looking to collaborate on:<br><br>
-🔹DevOps projects focused on cloud automation, infrastructure as code (IaC), and container orchestration<br>
-🔹Open-source projects where I can contribute my DevOps expertise<br>
+🔹 DevOps projects focused on cloud automation, infrastructure as code (IaC), and container orchestration<br>
+🔹 Open-source projects where I can contribute my DevOps expertise<br>
 
 🌱 I’m currently learning:<br><br>
-🔹AWS and Azure cloud services for scalable and secure deployments ☁️<br>
-🔹Best practices in DevOps, including CI/CD, automation, and infrastructure as code 🚀<br>
+🔸 AWS and Azure cloud services for scalable and secure deployments ☁️<br>
+🔸 Best practices in DevOps, including CI/CD, automation, and infrastructure as code 🚀<br>
 
 💬 Ask me about:<br><br>
-🔹DevOps tools (GitHub Actions, Jenkins, Docker, Kubernetes)<br>
-🔹Cloud platforms (AWS, Azure)<br>
+🌸 DevOps tools (GitHub Actions, Jenkins, Docker, Kubernetes)<br>
+🌸 Cloud platforms (AWS, Azure)<br>
 Infrastructure as Code (IaC) (Terraform)<br>
 
 ⚡ Fun fact:<br><br>
