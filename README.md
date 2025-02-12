@@ -14,7 +14,7 @@
 💬 Ask me about:<br><br>
 🌸 DevOps tools (GitHub Actions, Jenkins, Docker, Kubernetes)<br>
 🌸 Cloud platforms (AWS, Azure)<br>
-Infrastructure as Code (IaC) (Terraform)<br>
+🌸 Infrastructure as Code (IaC) (Terraform)<br>
 
 ⚡ Fun fact:<br><br>
 I enjoy jump rope workouts as a hobby! 🏃‍♂️💪<br>
